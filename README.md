@@ -1,4 +1,4 @@
-# LOLA-Open-AR-Robot-Viewer-LO-AR-RV-
+# LOLA-Open-AR-Robot-Viewer(LO-AR-RV)
 Open robot description formats such as URDF have enabled interoperability in robotics research and industrial applications, but existing robot programming, simulation, and visualization platforms are largely ROS-dependent and desktop-oriented. This project proposes an open-source standalone Android-based Augmented Reality (AR) robotics interaction platform which enable end-users of loading arbitrary URDF robot and end-effector CAD models, to automatically construct the robot configuration, and interact with augmented robot’s joints through generated controls while visualizing the robot in augmented reality aligned with a physical environment.
 
 ![Screenshot](images/Lola_AR_GUI.jpg)
