@@ -3,6 +3,6 @@ Open robot description formats such as URDF have enabled interoperability in rob
 
 The platform will enable the visualization and interaction with standard URDF-based robot models in augmented reality on Android devices. The project aims to lower barriers to advanced robotics visualization and AR-assisted robot interaction, making such technologies more accessible to researchers, educators, developers, and SMEs, without ROS or proprietary robotics runtimes as mandatory dependencies. The resulting software will be released as free and open-source. Expected outcomes: URDF-based robot loading pipeline, open-source Android AR robotics runtime, generic joint interaction framework, documentation, demonstrations.
 
-YouTube: https://www.youtube.com/@ILRRobotLab
-Paper: https://www.mdpi.com/2075-1702/12/7/480
-Robotics Department Lola Institute: https://www.li.rs/en/robotics
+<p>YouTube: https://www.youtube.com/@ILRRobotLab</p>
+<p>Paper: https://www.mdpi.com/2075-1702/12/7/480</p>
+<p>Robotics Department Lola Institute: https://www.li.rs/en/robotics</p>
